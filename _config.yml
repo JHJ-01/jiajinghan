@@ -7,9 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "cn-CHN"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "贾景晗个人主页"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
