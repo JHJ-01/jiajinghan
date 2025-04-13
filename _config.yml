@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "贾景晗"
-  pronouns         : "鲁迅美术学院视觉传达方向硕士研究生"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "她"  
+  bio              : "鲁迅美术学院视觉传达方向硕士研究生"
   location         : "大连"
-  employer         : "Luxun Academy of Fine Arts"
+  employer         : "鲁迅美术学院"
   uri              : # URL
   email            : "jjh@qq.com" 
 
